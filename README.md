@@ -70,8 +70,10 @@ You can find me on the following links.
 ## Most used languages 📝 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffd000&text_color=ffd500&locale=en&layout=compact" alt="goldsolacepvg" /></p>
 
+
 ## Stats 📊​
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffc800&text_color=ffc800&locale=en" alt="goldsolacepvg" /></p>
+
 
 ## Streak 🏆
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldsolacepvg&theme=dark" alt="goldsolacepvg" /></p>
