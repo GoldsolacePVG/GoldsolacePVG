@@ -56,6 +56,7 @@ When I'm not studying, I'm either developing my personal projects, programming o
 
 <br>
 You can also check all the languages that I used and how many time I have used them on the following link.
+<br>
 
 [![wakatime](https://wakatime.com/badge/user/018b3fe6-8cec-46b5-95cf-ff83de3f505c.svg)](https://wakatime.com/@018b3fe6-8cec-46b5-95cf-ff83de3f505c)
 <br><br>
