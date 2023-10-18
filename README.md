@@ -13,8 +13,11 @@ When I'm not studying, I'm either developing my personal projects, programming o
 ### Extra Info 
 
 📊 I’m currently working on **Super Arkanoid**
+
 👯 I’m looking to collaborate on **Monster Hunter Pixel (Color)**
+
 🤝 I’m looking for help with **Monster Hunter Pixel (Color)**
+
 📫 How to reach me **rodrigotokiosan@gmail.com**
 <br><br>
 
@@ -65,11 +68,10 @@ You can find me on the following links.
 
 
 ## Most used languages 📝 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldsolacepvg" alt="goldsolacepvg" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffd000&text_color=ffd500&locale=en&layout=compact" alt="goldsolacepvg" /></p>
 
 ## Stats 📊​
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffd000&text_color=ffd500&locale=en&layout=compact" alt="goldsolacepvg" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffc800&text_color=ffc800&locale=en" alt="goldsolacepvg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffc800&text_color=ffc800&locale=en" alt="goldsolacepvg" /></p>
 
 ## Streak 🏆
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldsolacepvg&theme=dark" alt="goldsolacepvg" /></p>
