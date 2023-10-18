@@ -54,7 +54,7 @@ When I'm not studying, I'm either developing my personal projects, programming o
 [![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)](https://dotnet.microsoft.com/en-us/) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)](https://www.djangoproject.com/) [![React](https://img.shields.io/badge/-React-00D1E1?labelColor=101010&style=for-the-badge&logo=react&logoColor=white&link=https://es.react.dev)](https://es.react.dev) [![jQuery](https://img.shields.io/badge/-jQuery-0275FF?labelColor=101010&style=for-the-badge&logo=jquery&logoColor=white&link=https://jquery.com)](https://jquery.com) [![Go](https://img.shields.io/badge/-Go-02C2FF?labelColor=101010&style=for-the-badge&logo=go&logoColor=white&link=https://go.dev)](https://go.dev)
 
 
-
+<br>
 You can also check all the languages that I used and how many time I have used them on the following link.
 
 [![wakatime](https://wakatime.com/badge/user/018b3fe6-8cec-46b5-95cf-ff83de3f505c.svg)](https://wakatime.com/@018b3fe6-8cec-46b5-95cf-ff83de3f505c)
