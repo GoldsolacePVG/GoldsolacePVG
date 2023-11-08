@@ -63,10 +63,3 @@ You can also check all the languages that I used and how many time I have used t
 
 You can find me on the following links.
 <br><a href="https://instagram.com/goldsolace_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goldsolace_yt" height="35" width="40" /></a> <a href="https://discord.gg/Goldsolace9995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Goldsolace9995" height="40" width="40" /></a><br><br>
-
-## Stats 📊​
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffd000&text_color=ffd500&locale=en&layout=compact" alt="goldsolacepvg" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldsolacepvg&show_icons=true&theme=dark&title_color=ffc800&text_color=ffc800&locale=en" alt="goldsolacepvg" /></p>
-
-
-## Streak 🏆
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldsolacepvg&theme=dark" alt="goldsolacepvg" /></p>
