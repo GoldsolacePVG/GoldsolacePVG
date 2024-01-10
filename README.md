@@ -6,15 +6,17 @@
 
 I'm a 19 years old guy. Nowadays I'm studying a HND on videogames programming. On my free time I normally try to use other programming languages for learning.
 
-When I'm not studying, I'm either developing my personal projects, programming or just playing video games. The project I'm the most proud of is a website of the game Monster Hunter.
+When I'm not studying, I'm either developing my personal projects, programming or just playing video games. The projects I'm the most proud of is a website of the game Monster Hunter, a "Bullet Hell" game called SpaceWars and my own portfolio website.
 
 - [Monster Hunter Website](https://github.com/GoldsolacePVG/GoldsolacePVG.github.io "Monster Hunter Website")
+- [SpaceWars](https://github.com/GoldsolacePVG/SpaceWars "SpaceWars")
+- [Portfolio](https://github.com/GoldsolacePVG/Portfolio "Portfolio")
 
 ### Extra Info 
 
-📊 I’m currently working on **Super Arkanoid**
+📊 I’m currently working on **Monster Hunter Pixel (Color)**
 
-👯 I’m looking to collaborate on **Monster Hunter Pixel (Color)**
+👯 I’m looking to collaborate on **a possible bishōjo game**
 
 🤝 I’m looking for help with **Monster Hunter Pixel (Color)**
 
@@ -36,13 +38,13 @@ When I'm not studying, I'm either developing my personal projects, programming o
 [![C](https://img.shields.io/badge/-C-lightgrey?labelColor=101010&style=for-the-badge&logo=c&logoColor=white&link=https://www.w3schools.com/c/)](https://www.w3schools.com/c/) [![C++](https://img.shields.io/badge/-C++-2871DA?labelColor=101010&style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.w3schools.com/cpp/)](https://www.w3schools.com/cpp/) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/)  [![Go](https://img.shields.io/badge/-Go-02C2FF?labelColor=101010&style=for-the-badge&logo=go&logoColor=white&link=https://go.dev)](https://go.dev)
 
 #### - Mobile developer
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/)
 
 #### - DevOps
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](#) [![Perforce](https://img.shields.io/badge/-Perforce-101010?labelColor=101010&style=for-the-badge&logo=perforce&logoColor=white&link=https://www.perforce.com)](https://www.perforce.com) [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)](#Markdown/)
 
 #### - Open Source developer
-[![C](https://img.shields.io/badge/-C-lightgrey?labelColor=101010&style=for-the-badge&logo=c&logoColor=white&link=https://www.w3schools.com/c/)](https://www.w3schools.com/c/) [![C++](https://img.shields.io/badge/-C++-2871DA?labelColor=101010&style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.w3schools.com/cpp/)](https://www.w3schools.com/cpp/) [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org) [![Ruby](https://img.shields.io/badge/-Ruby-FF0000?labelColor=101010&style=for-the-badge&logo=ruby&logoColor=white&link=https://www.ruby-lang.org/es/)](https://www.ruby-lang.org/es/)
+[![C](https://img.shields.io/badge/-C-lightgrey?labelColor=101010&style=for-the-badge&logo=c&logoColor=white&link=https://www.w3schools.com/c/)](https://www.w3schools.com/c/) [![C++](https://img.shields.io/badge/-C++-2871DA?labelColor=101010&style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.w3schools.com/cpp/)](https://www.w3schools.com/cpp/) [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
 
 #### - Videogames developer
 [![C](https://img.shields.io/badge/-C-lightgrey?labelColor=101010&style=for-the-badge&logo=c&logoColor=white&link=https://www.w3schools.com/c/)](https://www.w3schools.com/c/) [![C++](https://img.shields.io/badge/-C++-2871DA?labelColor=101010&style=for-the-badge&logo=cplusplus&logoColor=white&link=https://www.w3schools.com/cpp/)](https://www.w3schools.com/cpp/) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)](https://www.w3schools.com/cs/) [![Lua](https://img.shields.io/badge/-Lua-blue?labelColor=101010&style=for-the-badge&logo=lua&logoColor=white&logoWidth=15&link=https://www.lua.org)](https://www.lua.org) [![Ruby](https://img.shields.io/badge/-Ruby-FF0000?labelColor=101010&style=for-the-badge&logo=ruby&logoColor=white&link=https://www.ruby-lang.org/es/)](https://www.ruby-lang.org/es/)
