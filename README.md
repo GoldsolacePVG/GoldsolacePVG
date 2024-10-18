@@ -4,7 +4,7 @@
 
 ## About me 👾
 
-I'm a 19 years old guy. Nowadays I'm studying a HND on videogames programming. On my free time I normally try to use other programming languages for learning.
+I'm a 20 years old guy. Nowadays I'm studying a HND on videogames programming. On my free time I normally try to use other programming languages for learning.
 
 When I'm not studying, I'm either developing my personal projects, programming or just playing video games. The projects I'm the most proud of is a website of the game Monster Hunter, a "Bullet Hell" game called SpaceWars and my own portfolio website.
 
